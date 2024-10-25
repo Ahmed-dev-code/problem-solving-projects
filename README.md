@@ -11,7 +11,7 @@ A collection of projects focused on applying advanced algorithms to tackle NP-ha
   - Visual representation of the knight's path.
   - Solution outputs.
 
-### 2. [Rush Hour Puzzle](https://github.com/Ahmed-dev-code/RushHourPuzzle)
+### 2. [Rush Hour Puzzle](https://github.com/Ahmed-dev-code/RushHourPuzzle) (private can be accessed on demand)
 - **Description**: An implementation of the Rush Hour puzzle, where the goal is to move vehicles to get the red car out of the gridlock.
 - **Approach**: This project uses the A* search algorithm to find optimal solutions and features an interface built with Pygame.
 - **Features**:
